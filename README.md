@@ -1,2 +1,2 @@
 # ML
-. samll experimental machine learning study
+. small experimental machine learning study
